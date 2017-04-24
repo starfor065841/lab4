@@ -1,12 +1,12 @@
 # lab4
 
 
-A.
+A.</br>
 	0000000000400710 T main</br>
 	00000000004006e4 T _Z7averageif</br>
 	00000000004006b6 T _Z7averagePdRd</br>
 
-B.
+B.</br>
 	1	8</br>
 	4	8</br>
 	4	8</br>
